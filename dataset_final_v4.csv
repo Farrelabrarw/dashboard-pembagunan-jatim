@@ -1,0 +1,39 @@
+wilayah,ipm,persentase_miskin,rls,tpt,pdrb_per_kapita,log_pdrb_per_kapita,total_faskes,nomor_kategori,label_klaster,label_lengkap
+Bangkalan,68.15,18.25,6.15,5.31,27588.0,10.225136174551182,1208,1,Rendah,Kategori 1: IPM Rendah
+Banyuwangi,75.17,6.13,7.84,3.94,67081.0,11.113656123399075,2454,2,Sedang,Kategori 2: IPM Sedang
+Blitar,74.43,7.57,8.01,4.49,40200.0,10.601622274607113,1444,2,Sedang,Kategori 2: IPM Sedang
+Bojonegoro,73.74,11.49,7.78,3.9,78894.0,11.275860458314973,1736,2,Sedang,Kategori 2: IPM Sedang
+Bondowoso,71.72,12.2,6.54,2.55,35872.0,10.487712325871886,1153,1,Rendah,Kategori 1: IPM Rendah
+Gresik,79.69,9.95,10.13,5.47,146668.0,11.895926808094103,1674,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Jember,71.57,8.67,6.64,3.07,42357.0,10.653888975677635,3065,1,Rendah,Kategori 1: IPM Rendah
+Jombang,76.37,8.36,8.88,3.28,42359.0,10.653936192260108,1683,2,Sedang,Kategori 2: IPM Sedang
+Kediri,76.09,9.81,8.38,4.71,34496.0,10.448598654268668,1826,2,Sedang,Kategori 2: IPM Sedang
+Kota Batu,80.35,2.86,9.95,3.53,105197.0,11.56359006176886,217,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Kota Blitar,82.03,6.6,10.83,4.28,63146.0,11.053204784521506,141,4,Tinggi,Kategori 4: IPM Tinggi
+Kota Kediri,82.71,6.04,11.09,3.76,581558.0,13.273465988013381,372,4,Tinggi,Kategori 4: IPM Tinggi
+Kota Madiun,85.12,3.89,12.12,4.29,98078.0,11.493518359445,316,4,Tinggi,Kategori 4: IPM Tinggi
+Kota Malang,85.55,3.85,11.36,5.69,122919.0,11.71928088083873,804,4,Tinggi,Kategori 4: IPM Tinggi
+Kota Mojokerto,82.35,5.05,11.44,4.66,66235.0,11.100964303118362,212,4,Tinggi,Kategori 4: IPM Tinggi
+Kota Pasuruan,79.52,6.18,9.98,4.59,54006.0,10.89685043048514,314,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Kota Probolinggo,78.5,5.69,9.73,4.93,65483.0,11.089545845951761,256,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Kota Surabaya,85.65,3.56,11.15,4.84,283306.0,12.554282864556567,2700,4,Tinggi,Kategori 4: IPM Tinggi
+Lamongan,76.81,12.03,8.73,4.29,40469.0,10.608291527903145,1869,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Lumajang,71.02,8.6,7.28,3.08,40349.0,10.605321890243529,1378,1,Rendah,Kategori 1: IPM Rendah
+Madiun,75.47,10.4,8.21,3.22,36116.0,10.49449125942737,917,2,Sedang,Kategori 2: IPM Sedang
+Magetan,77.58,9.14,8.84,3.26,38264.0,10.552264785360133,949,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Malang,74.45,8.78,7.98,5.0,54521.0,10.906341227535142,3068,2,Sedang,Kategori 2: IPM Sedang
+Mojokerto,77.46,8.79,9.14,3.49,105452.0,11.566011152061817,1383,3,Cukup Tinggi,Kategori 3: IPM Cukup Tinggi
+Nganjuk,75.89,10.06,8.26,3.84,34314.0,10.443308713143372,1355,2,Sedang,Kategori 2: IPM Sedang
+Ngawi,74.43,13.62,7.88,2.26,31279.0,10.350702224838756,1275,2,Sedang,Kategori 2: IPM Sedang
+Pacitan,72.26,12.97,7.91,1.4,38215.0,10.550983387676984,906,1,Rendah,Kategori 1: IPM Rendah
+Pamekasan,71.64,12.77,7.29,1.33,27206.0,10.211192816193375,1057,1,Rendah,Kategori 1: IPM Rendah
+Pasuruan,73.02,8.21,7.47,4.22,131055.0,11.783372361400305,2048,2,Sedang,Kategori 2: IPM Sedang
+Ponorogo,74.65,8.86,7.95,3.85,30007.0,10.309185966759637,1229,2,Sedang,Kategori 2: IPM Sedang
+Probolinggo,71.65,16.31,6.43,2.92,41409.0,10.631253527491689,1411,1,Rendah,Kategori 1: IPM Rendah
+Sampang,67.23,20.61,5.19,2.44,25531.0,10.147648679072807,1101,1,Rendah,Kategori 1: IPM Rendah
+Sidoarjo,83.35,4.4,10.94,5.75,145529.0,11.88813065844832,2131,4,Tinggi,Kategori 4: IPM Tinggi
+Situbondo,71.87,11.17,7.03,3.02,41143.0,10.624809082278963,994,1,Rendah,Kategori 1: IPM Rendah
+Sumenep,70.54,17.02,6.24,1.64,42090.0,10.647565461764616,1550,1,Rendah,Kategori 1: IPM Rendah
+Trenggalek,73.39,10.29,8.09,3.86,35110.0,10.466241269162477,910,2,Sedang,Kategori 2: IPM Sedang
+Tuban,73.15,14.13,7.54,3.44,75150.0,11.227241395181121,1493,2,Sedang,Kategori 2: IPM Sedang
+Tulungagung,75.88,5.96,8.69,4.03,49485.0,10.80942487233079,1336,2,Sedang,Kategori 2: IPM Sedang
